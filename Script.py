@@ -2,7 +2,7 @@ import os
 class script(object):
     START_TXT = """<b>ʜᴇʏ {}, {}\n\nWᴇʟᴄᴏᴍᴇ!! ᴛᴏ Cᴇɴᴛʀᴏ ᴅᴇ Cɪɴᴇ 🎭
 
-Wʜᴇʀᴇ ᴀʟʟ ᴍᴏᴠɪᴇs ᴀɴᴅ sʜᴏᴡs ᴀʀᴇ ғʀᴇᴇ,A ᴡᴏʀʟᴅ ᴏғ sᴛᴏʀɪᴇs ғᴏʀ ʏᴏᴜ ᴀɴᴅ ᴍᴇ! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="http://telegram.me/Heisenberg1609">Aᴅᴍɪɴ</a></blockquote></b>"""
+😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="http://telegram.me/Heisenberg1609">Aᴅᴍɪɴ</a></blockquote></b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
     
